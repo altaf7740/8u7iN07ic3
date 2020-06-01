@@ -17,7 +17,7 @@ class But_i_notice:
 
     def __init__(self):
         root=tk.Tk()
-        root.title("Silent EYE")
+        root.title("8u7iN07ic3")
         root.geometry("380x420")
 
         #list of variables used in the entire program
