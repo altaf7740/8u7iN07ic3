@@ -1,0 +1,12 @@
+#!/bin/bash
+if [[ $EUID -ne 0 ]]; then
+  echo "You must be a root user" 2>&1
+  exit 1
+else
+  echo "installing necessary files"
+  apt update
+  apt install python3 python3-pyinstaller python3-pynput -y
+  clear
+  echo "all done"
+  echo "type 'python3 8u7iN07ic3' in terminal"
+fi
