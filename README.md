@@ -8,7 +8,10 @@ It works in persitent mode.
 Easy to use
 
 Assuming that python3 is already installed and path variable are set to access the python interpreter globaly.
+
+
 To install in windows follow the steps:
+
 
 step1: Download the zip file and extract it. 
        or clone the tool using the below command
@@ -22,13 +25,14 @@ step 3: install the necessary package, type in the command prompt :
     pip install pynput
     pip install pyinstaller
 
-step 5: python3 8u7iN07ic3.py
+step 4: python3 8u7iN07ic3.py
 
 
 
 
 
 To install it on the linux system follow the steps :
+
 
 
 step1: clone the tool using the below command
@@ -44,3 +48,5 @@ step 4: execute the 'install' as root ./install
 step 5: python3 8u7iN07ic3.py
 
 that's All
+
+its is created for educational purpose, dont be evil.
