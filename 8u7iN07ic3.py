@@ -169,7 +169,5 @@ def main():
     else:
         print("okay, get lost !!!")
 
-# if __main__ == "8u7iN07ic3":
-    # main()
 if __name__ == "__main__":
     main()
